@@ -1,36 +1,49 @@
-## Welcome to GitHub Pages
+## Larissa Caldeira
 
-You can use the [editor on GitHub](https://github.com/larissa-soc/larissa-soc.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# Larissa Caldeira
+The University of Washington - Seattle
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+caldeira@uw.edu
 
-### Markdown
+https://github.com/larissa-soc/larissa-soc.github.io
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+https://www.linkedin.com/in/larissa-r-caldeira
 
-```markdown
-Syntax highlighted code block
+**Academics**
 
-# Header 1
-## Header 2
-### Header 3
+M.A./PhD at the University of Washington in Sociology. September 2020 – 2025 (expected graduation year)
+B.A. from Gonzaga University, Sociology, Philosophy, and Religious Studies. August 2016 - May 2020 GPA 3.94
+- Qualitative Sociological research on masculinity in effeminized professions. Presented findings at Pacific Sociological Association (PSA) conference in Oakland, California March 2019. Research on Indigenous health as it relates to environmental degradation was accepted by PSA for the 2020 conference.
+-Philosophical paper on Greek Eroticism and its possible applications for modern feminist thought. I presented at the Gonzaga Regional Philosophy conference in Spring 2019 and was awarded best paper.
 
-- Bulleted
-- List
+**Professional Experience**
 
-1. Numbered
-2. List
+Act Six Program Assistant, YMCA of the Inland Northwest (August 2018 – May 2019)
+-	Ensured the security of prospective applicant and scholar information.
+-	Facilitated productive communication between current scholars at both Whitworth and Gonzaga, and the program supervisor.
+Driver Licensing Intern, Center for Justice (May 2018 – August 2018)
+-	Conducted meetings with potential clients and determined program eligibility. I processed program payment with the center’s accountant.
+-	Managed the movement of legal documentation through the District and Municipal Courts of Spokane County.
+-	Independently processed over 50 clients, assisted/managed over 100
+Quality Control Intern, Jubilant Hollister-Stier Life Sciences (July 2016 – December 2017)
+-	Verified the calibration of the high purity water dispensers, micro scales, and standard scientific scales daily
+-	Maintained the cleanliness of Quality Control lab in accordance with FDA standards.
+-	Transferred over 1,000 paper records taken in the laboratory to their electronic form with Excel.
+-	Maintained as an Intern beyond the initial length of the position and made the laboratory setting more efficient and accessible for Quality Control scientists
 
-**Bold** and _Italic_ and `Code` text
+**Volunteer and Leadership**
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/larissa-soc/larissa-soc.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+President’s Council Academic Integrity Board Member (October 2018 – June 2020)
+-	Collaborate with other council members to create a culture of academic integrity.
+-	 Implement the guidelines outlined by the council.
+-	Establish a reporting cycle with the Dean, Provost, and faculty.
+Act Six (urban leadership scholarship) Scholar (February 2016 – May 2020)
+-	6 week intensive leadership training with the scholarship
+-	monthly meetings to discuss our role on campus and semester service projects
+-	Collaborative efforts to put on a campus-wide summit
+Organizer of 4 week leadership workshop for local high school students (February 2017 – March 2017)
+-	designed and coordinated a series of lessons in leadership for local high school students
+-	included an emphasis on diversity and self-awareness
 
 ### Support or Contact
 
